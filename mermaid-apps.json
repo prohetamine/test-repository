@@ -1,4 +1,7 @@
 [
   "git@github.com:prohetamine/token-stats.git",
-  "git@github.com:prohetamine/connects.git"
+  "git@github.com:prohetamine/connects.git",
+  "git@github.com:prohetamine/blabla.git",
+  "git@github.com:prohetamine/textchat.git",
+  "git@github.com:prohetamine/progress-bar.git",
 ]
