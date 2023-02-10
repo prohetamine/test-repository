@@ -2,8 +2,5 @@
   "https://github.com/prohetamine/connects.git",
   "https://github.com/prohetamine/token-stats.git",
   "https://github.com/prohetamine/telemetry.git",
-  "https://github.com/prohetamine/voice-message.git",
-  "https://github.com/prohetamine/hello-world.git",
-  "https://github.com/prohetamine/http-tip.git",
-  "https://github.com/prohetamine/repeater.git"
+  "https://github.com/prohetamine/voice-message.git"
 ]
